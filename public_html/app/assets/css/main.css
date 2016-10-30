@@ -457,7 +457,25 @@ html {
 body {
   font-family: Raleway, Helvetica, Arial, Serif; }
 
+.container {
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto; }
+
 .movil {
   border: 1px solid black;
   padding: 10px;
-  width: 400px; }
+  width: 400px;
+  margin: 5px; }
+
+.search {
+  margin-bottom: 5px;
+  float: left; }
+
+.order {
+  float: left;
+  margin: 2px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: Raleway, Helvetica, Arial, Serif;
+  line-height: 1; }
