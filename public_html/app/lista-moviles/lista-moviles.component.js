@@ -5,14 +5,17 @@ angular.module('listaMoviles').component('listaMoviles',{
     controller: function(){
          this.moviles = [
         {
-          nombre: 'Nexus S',
-          info: 'Esto es un Nexus 5'
+          nombre: 'AAA Nexus S',
+          info: 'Esto es un Nexus 5',
+          fecha: new Date(2016,2,3)
         }, {
           nombre: 'Motorola XOOM™ with Wi-Fi',
-          info: 'Esto es un Motorola'
+          info: 'Esto es un Motorola',
+          fecha: new Date(2016,2,2)
         }, {
           nombre: 'MOTOROLA XOOM™',
-          info: 'Esto es otro motorola'
+          info: 'Esto es otro motorola',
+          fecha: new Date(2016,2,1)
         }
       ];
     }
