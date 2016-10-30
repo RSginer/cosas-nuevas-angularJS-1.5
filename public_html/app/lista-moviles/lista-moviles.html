@@ -7,7 +7,7 @@
         <option value="fecha" ng-selected="$ctrl.orden">Fecha</option>
     </select>
   <ul>
-    <li ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden">
+    <li class="movil" ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden">
       <span>{{movil.nombre}}</span>
       <p>{{movil.info}}</p>
         <p>{{movil.fecha | date:'dd-MM-yyyy'}}</p>
