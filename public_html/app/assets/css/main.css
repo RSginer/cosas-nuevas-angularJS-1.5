@@ -544,7 +544,7 @@ body {
 .search {
   margin-bottom: 5px;
   float: left;
-  width: 40%;
+  width: 60%;
   height: 30px; }
 
 select.order {
@@ -568,4 +568,4 @@ h2.order {
 .vista-label {
   line-height: 2;
   float: right;
-  margin-right: 4px; }
+  margin-right: 10px; }
