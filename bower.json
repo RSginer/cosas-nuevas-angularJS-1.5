@@ -1,13 +1,17 @@
 {
     "name": "PhoneCatAngularJS",
     "version": "1.0.0",
-    "main": "path/to/main.css",
+    "main": "app/assets/css/main.css",
     "ignore": [
         ".jshintrc",
         "**/*.txt"
     ],
     "dependencies": {
-    },
+    "angular":          "1.5.8",
+    "angular-route":    "1.5.8",
+    "angular-sanitize": "1.5.8",
+    "angular-mocks":    "1.5.8"
+},
     "devDependencies": {
     }
 }
