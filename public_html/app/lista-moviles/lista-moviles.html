@@ -1,7 +1,12 @@
 <div class="container">
   <h1 class="lista-moviles__h1">Listado de móviles</h1>
   <h1 class="lista-moviles__titulo-filtro">Buscar móviles</h1>
-  <input class="search" placeholder="Introduce el nombre de un móvil..."  size="40" type="text" ng-model="$ctrl.query">
+  <input class="search" placeholder="Introduce el nombre de un móvil..."   type="text" ng-model="$ctrl.query">
+    <select class="order" ng-model="$ctrl.ordenReverse">
+        <option value="false">ASC</option>
+        <option value="true">DESC</option>
+    </select>
+
     <select class="order" ng-model="$ctrl.orden">
         <option value="nombre">Nombre</option>
         <option value="fecha">Fecha</option>
@@ -17,7 +22,7 @@
     <div class="lista-moviles">
         <h1 class="lista-moviles__titulo">Lista de móviles</h1>
         <ul>
-            <li class="movil" ng-class="$ctrl.vista" ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden">
+            <li class="movil" ng-class="$ctrl.vista" ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden : $ctrl.ordenReverse == 'true'">
                 <span class="movil__nombre">{{movil.nombre}}</span>
                 <p class="movil__info">{{movil.info}}</p>
                 <p class="movil__fecha">{{movil.fecha | date:'dd-MM-yyyy'}}</p>
