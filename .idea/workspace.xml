@@ -2,10 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="179c9108-cb94-4ff7-bcc8-3fe5b88cbdfb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public_html/app/assets/scss/base/_reset.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/.bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/LICENSE.md" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/angular-mocks.js" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/angular-mocks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/ngAnimateMock.js" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/ngAnimateMock.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/ngMock.js" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/ngMock.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/ngMockE2E.js" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/ngMockE2E.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-mocks/package.json" afterPath="$PROJECT_DIR$/bower_components/angular-mocks/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-route/.bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/LICENSE.md" afterPath="$PROJECT_DIR$/bower_components/angular-route/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-route/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/angular-route.js" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/angular-route.min.js" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/angular-route.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular-route/angular-route.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-route/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/index.js" afterPath="$PROJECT_DIR$/bower_components/angular-route/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-route/package.json" afterPath="$PROJECT_DIR$/bower_components/angular-route/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/.bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/LICENSE.md" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/README.md" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/angular-sanitize.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/angular-sanitize.min.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/angular-sanitize.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/angular-sanitize.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/index.js" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular-sanitize/package.json" afterPath="$PROJECT_DIR$/bower_components/angular-sanitize/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/.bower.json" afterPath="$PROJECT_DIR$/bower_components/angular/.bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/LICENSE.md" afterPath="$PROJECT_DIR$/bower_components/angular/LICENSE.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/README.md" afterPath="$PROJECT_DIR$/bower_components/angular/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/angular-csp.css" afterPath="$PROJECT_DIR$/bower_components/angular/angular-csp.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/angular.js" afterPath="$PROJECT_DIR$/bower_components/angular/angular.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/angular.min.js" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/angular.min.js.gzip" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.gzip" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/angular.min.js.map" afterPath="$PROJECT_DIR$/bower_components/angular/angular.min.js.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/bower.json" afterPath="$PROJECT_DIR$/bower_components/angular/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/index.js" afterPath="$PROJECT_DIR$/bower_components/angular/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public_html/bower_components/angular/package.json" afterPath="$PROJECT_DIR$/bower_components/angular/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/app/assets/css/main.css" afterPath="$PROJECT_DIR$/public_html/app/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/app/assets/scss/main.scss" afterPath="$PROJECT_DIR$/public_html/app/assets/scss/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/ink-docstrap/styles/main.less" afterPath="$PROJECT_DIR$/node_modules/ink-docstrap/styles/main.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/app/index.html" afterPath="$PROJECT_DIR$/public_html/app/index.html" />
     </list>
     <ignored path="cosasNuevasAngularJS1.5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,21 +75,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+            <state relative-caret-position="136">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/app/assets/scss/main.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -94,8 +141,8 @@
             <state relative-caret-position="136">
               <caret line="463" column="0" selection-start-line="463" selection-start-column="0" selection-end-line="463" selection-end-column="0" />
               <folding>
-                <marker date="1477846320332" expanded="true" signature="9366:9418" ph="{...}" />
-                <marker date="1477846320332" expanded="true" signature="9427:9490" ph="{...}" />
+                <marker date="1477846344098" expanded="true" signature="9366:9418" ph="{...}" />
+                <marker date="1477846344098" expanded="true" signature="9427:9490" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,16 +153,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="517">
               <caret line="514" column="1" selection-start-line="514" selection-start-column="1" selection-end-line="514" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="moviles.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public_html/app/lista-moviles/moviles.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -149,13 +186,13 @@
         <option value="$PROJECT_DIR$/public_html/app/lista-moviles/moviles.json" />
         <option value="$PROJECT_DIR$/public_html/app/lista-moviles/lista-moviles.component.js" />
         <option value="$PROJECT_DIR$/public_html/app/lista-moviles/lista-moviles.html" />
-        <option value="$PROJECT_DIR$/public_html/app/index.html" />
         <option value="$PROJECT_DIR$/public_html/app/assets/scss/components/_movil.scss" />
         <option value="$PROJECT_DIR$/public_html/app/assets/scss/theme/_body.scss" />
         <option value="$PROJECT_DIR$/public_html/app/assets/scss/abstract/_variables.scss" />
         <option value="$PROJECT_DIR$/public_html/app/assets/css/main.css" />
         <option value="$PROJECT_DIR$/public_html/app/assets/scss/base/_reset.scss" />
         <option value="$PROJECT_DIR$/public_html/app/assets/scss/main.scss" />
+        <option value="$PROJECT_DIR$/public_html/app/index.html" />
       </list>
     </option>
   </component>
@@ -220,20 +257,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cosasNuevasAngularJS1.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cosasNuevasAngularJS1.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cosasNuevasAngularJS1.5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public_html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,6 +453,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rubén\Documents\NetBeansProjects\cosasNuevasAngularJS1.5" />
       <recent name="C:\Users\Rubén\Documents\NetBeansProjects\cosasNuevasAngularJS1.5\public_html\app" />
     </key>
   </component>
@@ -516,12 +540,12 @@
       <option name="presentableId" value="Default" />
       <updated>1477834702759</updated>
       <workItem from="1477834706157" duration="965000" />
-      <workItem from="1477835701817" duration="7601000" />
+      <workItem from="1477835701817" duration="7744000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8566000" />
+    <option name="totallyTimeSpent" value="8709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -640,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/bower_components/angular-mocks/angular-mocks.js">
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-mocks/angular-mocks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1530">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -660,7 +684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/bower_components/angular-mocks/ngAnimateMock.js">
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-mocks/ngAnimateMock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -668,7 +692,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/bower_components/angular-mocks/ngMock.js">
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-mocks/ngMock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -676,18 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/bower_components/angular-sanitize/package.json">
+    <entry file="file://$PROJECT_DIR$/bower_components/angular-sanitize/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -734,14 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/app/assets/scss/components/_movil.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -779,8 +787,8 @@
         <state relative-caret-position="136">
           <caret line="463" column="0" selection-start-line="463" selection-start-column="0" selection-end-line="463" selection-end-column="0" />
           <folding>
-            <marker date="1477846320332" expanded="true" signature="9366:9418" ph="{...}" />
-            <marker date="1477846320332" expanded="true" signature="9427:9490" ph="{...}" />
+            <marker date="1477846344098" expanded="true" signature="9366:9418" ph="{...}" />
+            <marker date="1477846344098" expanded="true" signature="9427:9490" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -797,6 +805,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
