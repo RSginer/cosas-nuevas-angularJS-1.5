@@ -1,7 +1,7 @@
 {
     "name": "PhoneCatAngularJS",
     "version": "1.0.0",
-    "main": "app/assets/css/main.css",
+    "main": "",
     "ignore": [
         ".jshintrc",
         "**/*.txt"
