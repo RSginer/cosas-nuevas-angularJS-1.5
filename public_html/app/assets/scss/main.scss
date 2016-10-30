@@ -1,7 +1,9 @@
 @import "base/_reset.scss";
 @import "abstract/_variables.scss";
+@import "abstract/_mixins.scss";
 @import "theme/_body.scss";
 @import "theme/_container.scss";
+@import "components/_lista-moviles.scss";
 @import "components/_movil.scss";
 @import "components/_search.scss";
 @import "components/_order.scss";

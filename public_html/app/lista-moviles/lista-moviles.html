@@ -1,18 +1,22 @@
 <div class="container">
-  <h1>Buscar moviles</h1>
-  <input class="search" placeholder="Introduce un movil..." type="text" ng-model="$ctrl.query">
+    <h1 class="lista-moviles__h1">Listado de móviles</h1>
+  <h1 class="lista-moviles__titulo-filtro">Buscar móviles</h1>
+  <input class="search" placeholder="Introduce el nombre de un móvil..."  size="40" type="text" ng-model="$ctrl.query">
     <h2 class="order">Ordenar por</h2>
     <select class="order" ng-model="$ctrl.orden">
         <option value="nombre" ng-selected="$ctrl.orden">Nombre</option>
         <option value="fecha" ng-selected="$ctrl.orden">Fecha</option>
-    </select><br>
-    <h1>Lista de moviles</h1>
+    </select>
+    <br>
+    <br>
+    <hr>
     <div class="lista-moviles">
+        <h1 class="lista-moviles__titulo">Lista de móviles</h1>
         <ul>
             <li class="movil" ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden">
-                <span>{{movil.nombre}}</span>
-                <p>{{movil.info}}</p>
-                <p>{{movil.fecha | date:'dd-MM-yyyy'}}</p>
+                <span class="movil__nombre">{{movil.nombre}}</span>
+                <p class="movil__info">{{movil.info}}</p>
+                <p class="movil__fecha">{{movil.fecha | date:'dd-MM-yyyy'}}</p>
             </li>
         </ul>
     </div>
