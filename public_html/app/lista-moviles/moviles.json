@@ -4,12 +4,17 @@
     "info": "Esto es un Nexus 5",
     "fecha": "1454516171000"
   }, {
-  "nombre": "Motorola XOOM™ with Wi-Fi",
+  "nombre": "Motorola XOOM",
   "info": "Esto es un Motorola",
   "fecha": "1454429771000"
 }, {
-  "nombre": "MOTOROLA XOOM™",
+  "nombre": "MOTOROLA MOTO G",
   "info": "Esto es otro motorola",
   "fecha": "1454343371000"
-}
+},
+  {
+    "nombre": "LG G3",
+    "info": "Un móvil LG",
+    "fecha": "1414343421000"
+  }
 ]

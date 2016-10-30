@@ -1,0 +1,14 @@
+.iconos-vista{
+  color:grey;
+  cursor: pointer;
+  font-size: 20px;
+  line-height: 1.2;
+  float: right;
+  margin: 5px;
+}
+.iconos-vista:hover{
+  color:black;
+}
+.iconos-vista--activo{
+  color:black;
+}
