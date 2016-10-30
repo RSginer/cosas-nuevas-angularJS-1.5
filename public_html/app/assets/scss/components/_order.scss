@@ -13,3 +13,9 @@ h2.order{
   line-height: 1;
   @include border-radius(4px);
 }
+
+.vista-label{
+  line-height: 2;
+  float: right;
+  margin-right: 4px;
+}

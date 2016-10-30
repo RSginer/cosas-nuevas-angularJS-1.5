@@ -7,9 +7,10 @@
         <option value="fecha">Fecha</option>
     </select>
     <h2 class="order">Ordenar por</h2>
-
-        <i ng-class="{'iconos-vista--activo': $ctrl.vista == 'movil--lista'}" ng-click="$ctrl.vista = 'movil--lista'" class="iconos-vista fa fa-list"></i>
-        <i ng-class="{'iconos-vista--activo': $ctrl.vista == 'movil'}" class="iconos-vista fa fa-th-large" ng-click="$ctrl.vista = 'movil'"></i>
+    <i ng-class="{'iconos-vista--activo': $ctrl.vista == 'movil'}" class="iconos-vista fa fa-th-large" ng-click="$ctrl.vista = 'movil'"></i>
+    <i ng-class="{'iconos-vista--activo': $ctrl.vista == 'movil--lista'}" ng-click="$ctrl.vista = 'movil--lista'" class="iconos-vista fa fa-list"></i>
+    <p class="vista-label" ng-if="$ctrl.vista=='movil'">Grid</p>
+    <p class="vista-label" ng-if="$ctrl.vista=='movil--lista'">Lista</p>
     <br>
     <br>
     <hr>
