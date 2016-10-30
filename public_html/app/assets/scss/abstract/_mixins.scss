@@ -4,3 +4,7 @@
   -ms-border-radius: $radius;
   border-radius: $radius;
 }
+
+@mixin box-shadow($box-shadow-size){
+  box-shadow: 1px 1px $box-shadow-size deepskyblue;
+}

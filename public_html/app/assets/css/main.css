@@ -467,7 +467,7 @@ body {
 .lista-moviles__h1 {
   letter-spacing: 30px;
   text-transform: uppercase;
-  color: grey;
+  color: cornflowerblue;
   text-align: center; }
 
 .lista-moviles__titulo {
@@ -483,6 +483,7 @@ body {
   padding: 10px;
   width: 600px;
   margin: 5px;
+  box-shadow: 1px 1px 3px deepskyblue;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
