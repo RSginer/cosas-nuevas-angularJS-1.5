@@ -3,13 +3,14 @@
   <input type="text" ng-model="$ctrl.query">
     <h2>Ordenar por:</h2>
     <select ng-model="$ctrl.orden">
-        <option value="nombre">Nombre</option>
-        <option value="fecha">Fecha</option>
+        <option value="nombre" {{if(this.orden=="nombre"){selected}}>Nombre</option>
+        <option value="fecha" {{if(this.orden=="fecha"){selected}}>Fecha</option>
     </select>
   <ul>
     <li ng-repeat="movil in $ctrl.moviles | filter: $ctrl.query | orderBy:$ctrl.orden">
       <span>{{movil.nombre}}</span>
       <p>{{movil.info}}</p>
+        <p>{{movil.fecha | date:'dd-MM-yyyy'}}</p>
     </li>
   </ul>
 </div>

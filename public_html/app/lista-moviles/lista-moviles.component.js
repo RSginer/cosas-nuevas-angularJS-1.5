@@ -18,5 +18,6 @@ angular.module('listaMoviles').component('listaMoviles',{
           fecha: new Date(2016,2,1)
         }
       ];
+        this.orden ="fecha";
     }
 });
