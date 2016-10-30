@@ -12,15 +12,15 @@ angular.module('listaMoviles').component('listaMoviles',{
  //       {
  //         nombre: 'AAA Nexus S',
  //         info: 'Esto es un Nexus 5',
- //         fecha: new Date(2016,2,3)
+ //         fecha: timestamp
  //       }, {
  //         nombre: 'Motorola XOOM™ with Wi-Fi',
  //         info: 'Esto es un Motorola',
-  //        fecha: new Date(2016,2,2)
+  //        fecha: timestamp
   ///      }, {
   //        nombre: 'MOTOROLA XOOM™',
   //        info: 'Esto es otro motorola',
-    //      fecha: new Date(2016,2,1)
+    //      fecha: timestamp
    //     }
    //   ];
         self.orden ="fecha";
