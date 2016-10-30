@@ -8,7 +8,5 @@ angular.module('listaMoviles').component('listaMoviles',{
         $http.get('lista-moviles/moviles.json').then(function(response){
            self.moviles=response.data;
         });
-
-        self.orden ="fecha";
     }]
 });
