@@ -1,4 +1,5 @@
 'use strict';
+
 angular.module('listaMoviles').component('listaMoviles',{
     templateUrl:'lista-moviles/lista-moviles.html',
     controller: function(){
